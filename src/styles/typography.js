@@ -2,6 +2,7 @@ import * as Colors  from "./colors";
 
 export const smallFontSize = 12;
 export const mediumFontSize = 14;
+export const normalSize = 18;
 export const bigFontSize = 20;
 export const extraBigFontSize = 40;
 export const semiBold = "400";
